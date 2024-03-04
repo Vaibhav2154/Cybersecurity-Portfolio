@@ -4,11 +4,21 @@
 Vaibhav M N’s draft professional statement:
 
 	My name is Vaibhav M N. I am driven and passionate about safeguarding people’s security,
-including their financial well being.
-I enjoy working with technology and analyzing and solving complex problems.
+including their financial well being. I enjoy working with technology and analyzing and solving complex problems.
 
-As a dedicated and seasoned cybersecurity professional, I bring a wealth of experience in safeguarding organizations from evolving digital threats. With a strong foundation in information security, I am committed to ensuring the confidentiality, integrity, and availability of sensitive data.
-My hands-on experience with cutting-edge technologies and security frameworks empowers me to implement effective security measures tailored to the unique needs of each organization. I am adept at conducting thorough security assessments, developing and implementing robust security policies, and fostering a culture of security awareness among team members.
-I thrive in fast-paced environments, staying ahead of cyber threats through continuous learning and adaptation. My proactive approach to cybersecurity ensures that potential risks are identified and mitigated before they can impact the organization.
-Collaboration is at the core of my work philosophy, and I excel in cross-functional teams, engaging with stakeholders to create a holistic cybersecurity strategy. I am dedicated to not only securing digital assets but also promoting a cyber-resilient environment that empowers organizations to thrive in an increasingly interconnected world.
-My commitment to the highest ethical standards, coupled with my technical proficiency, positions me as a valuable asset in fortifying organizations against cyber threats. I am eager to contribute my skills, experience, and passion for cybersecurity to an innovative team dedicated to staying one step ahead in the ever-evolving digital landscape.
+	As a dedicated and seasoned cybersecurity professional, I bring a wealth of experience in safeguarding 
+organizations from evolving digital threats. With a strong foundation in information security, I am committed to 
+ensuring the confidentiality, integrity, and availability of sensitive data.
+My hands-on experience with cutting-edge technologies and security frameworks empowers me to implement effective 
+security measures tailored to the unique needs of each organization. I am adept at conducting thorough security 
+assessments, developing and implementing robust security policies, and fostering a culture of security awareness 
+among team members.
+	I thrive in fast-paced environments, staying ahead of cyber threats through continuous learning and adaptation.
+My proactive approach to cybersecurity ensures that potential risks are identified and mitigated before they can impact 
+the organization. Collaboration is at the core of my work philosophy, and I excel in cross-functional teams, engaging 
+with stakeholders to create a holistic cybersecurity strategy. I am dedicated to not only securing digital assets but 
+also promoting a cyber-resilient environment that empowers organizations to thrive in an increasingly interconnected 
+world.
+	My commitment to the highest ethical standards, coupled with my technical proficiency, positions me as a 
+valuable asset in fortifying organizations against cyber threats. I am eager to contribute my skills, experience, and
+passion for cybersecurity to an innovative team dedicated to staying one step ahead in the ever-evolving digital landscape.
